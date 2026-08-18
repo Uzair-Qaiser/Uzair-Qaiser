@@ -25,12 +25,6 @@ Clean Architecture · BLoC · Riverpod · Firebase · Supabase · Node.js
 
 ---
 
-### 📊 GitHub Stats
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Uzair-Qaiser&layout=compact&theme=dark&hide_border=true)
-
----
-
 ### 🤝 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/uzair-qaiser)
